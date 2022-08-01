@@ -1,0 +1,148 @@
+[{
+  "id": "1",
+  "name": "Pick n Pay Liquor Bar Africa Mall",
+  "deliveryFee": 1.40,
+  "minDeliveryTime": 25,
+  "maxDeliveryTime": 35,
+  "rating": 4.0,
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBIRERIRERIRERERERERDxEREhIREREPGRgZGRgYGBgcIS8lHB4rHxgYJjgmKy8xNTU1GiQ7QDszPy40NTEBDAwMEA8QHhIRGjQhISExNjQ0NDQ1NDQxNDQ0NDQxNDE0MTQ0NDQxNDExMTQ0NDQ0NDQ0MTE0NDExMTE0NDQxNP/AABEIAJQBVAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAAAQIDBAUGB//EAEIQAAIBAgMEBgYJAgQHAQAAAAECAAMRBBIhBTFBUQYTImFxgTJScpGhsRQjM0JigrLB8AcVc5Ki0SRTY4PC4fEX/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECBAP/xAAjEQEBAQEAAgICAgMBAAAAAAAAAQIRAxIhUTEyImETQZEE/9oADAMBAAIRAxEAPwDyKEIQCEIQCEIQCEIQCEIQCEWEAhCEAhCLaAkW0UCOtJ0MtLuzsEtUtncIiZb/AHna99EX7x0Pw5ytaXdilVxFMuGIzaBcuYtyGYgc+MLwzH4AU3yK4b2xka+fKLi/nfleV3w+VFbMCWJBUXuBwN9xH88L/ShmOMql0dCSpCPkzBbC18rEe4yrUN6dMEEEdYQSLXpMRkseIzCp7zKiraFpJaFpOrxFaFpJliWjpwyJHkRLR1DYRbRJQQhCAkIsICQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhFgJCLCAQhCAQhC0AigRQI8LJ0NAigR4SOCSda4YFjgklVJItOS0kQZZ0XQd6lPFq1N2pgrZ8trslwba94mP1c6foHhS2IdgLhVQHdvYm36T7oze1bORS/qLjXbHt9YxVUp5Q2W6m2sy8S7VMPh3Y3yviafooCADTe9wLnVzv5abzOr/qL1lVhTWnUOQhnJC5BkQ+iS2l1N/y6X1tzNOmRhhTcZXTEOSpIvlZAt/8yMD5S2/FST5Z3Vw6uWxSjupnn7t+qgacaUl9qUianNTSXKkUiFZaanGsk11PVVIjSJYKSNkjqcRWiSQiMIlZJCEJQQhCARIsICQiwgJCEIBCEIBFhCAQhCAQhCAQhFtASFo4CLaTobaOAigTV2NskYlivXUqJFrB1qMWvyyKZLeLIzFWSKk7T/8AP3FMucZQygXJFLEnTzQTn8TTwiWUV3dx6TCmyJfuBW/xmbr+r/xqRQCR6JLCiidRVyrb7yMTfwG+WcXhFpVGpioHZDleylcrWBtrv38Jm1qSKiU5MtOSoklVJi6bmUBSdZ/Tq4q1LXysVVgLa2BI1tpqZzhpzoug2Po0usqVHCjM5uePAfKb8V7WfJ8RkdMds2xVZMlRgGZDeucrKwNxkyWt2j7zzmPgqoqLULWzBk6sXACU+3dQOOpT3Sv0kxS1sVVqIbqzkqe6O2OmbrGBFqaK7XPAuiaebieuvxXln8tBacf1UsKkcyzj9nVIotTkbJL5SdHsPobUxCCrVY06ZAKKBepUHP8ACPfeWW0skcQySNqc9WfoRh7WFNjbexd/jrKG0uhVO31SVFPEByx/1Cenax8PM2pyN0nVYvotiEPZpuwv95Du8Rv90q1ejWIAvZPC7A/ESzSXLmGSRss3DsLEk2FIn89MfNpU2lsuthmCV6ZpuQGALI11OoN1JHEe+ek087llkRJKyxpE11niOEdaJaOoSEWJKCEIQCEIQCEIQCEIsBIRbRbSBIWjrRQI6G2i2jgI4LC8NAigRwWKFhSBZ0fR3ZVVjnUWJ0UG97c98wUGo8Z6V0J2W+JZ7OKaU7F3Iva97AC45HjJLJ80rL6Q7NxlOgWZuwPStcWHm/7Tz52uZ7v0t6M1KuCfqa1OquXMCeyCByYXBni1bY2IQ2ZAO/Olrc99/hLdT7TlUVQndLeBfKwIy2JCOoPaB4Nbj4jnJn2c1OiKpYMDVakwANlcKrDU77gn3Slh/tE9pf1SdlizsrokElRZGknSctdMVMe9gEGjPvtvCyvUwhROIHOSBDUxaU13tUp01HeSF+ZnqGP2Ls1KKJVes4Z6lI1kH1a100dSoFxYg8Du3zoxzOXPrutPFKid8Si5XNyZSrDmP4AfKdPtno7SRs2HxBemdVYhXBHtKQPhM2rsdUoPUL3ZbZQQFXeLjfqSN0TyZ+09NfTWwDkoobVgqm/rKdzScic7sbFN1ioSSpVlUE7hq2nnedGs5/LnmnRi9ykw9MM9NG9FnRW9kkA/CexYTGUbBVNrAW0O6eQ4X7Sn7Y+AJ/ad3sqsC9u6Yzv11z7elx7Z79OwOKp23n3TExu1qCEguR+W8tuOwfCcFt+pZzrPbyauY8vHiarYxm3cNr9Yf8pnPY7beHN7Ox/LMDGVZj1n1nnm3T01mZjoV2vTzaM3ulrpYq4nBUcSCC1J+oZuYIzKPGx/0icXn1nZ9GqX0nAY+hvYIlemP+olzp4i4nRI8LXCukiZJoVKcrMkTSXKqVjSJOVjCk31jiIiIRJSsaRHTiO0LR9olpeoZCOtC0IbCLaEBbQtFtFtCki2i2haDgAigRQI8CZU0LHARwEUCDhoEcBHBYoWOrwiDUeM9O/p9jER+rqB/tVqoyNlAZA4OcX7S5WJtrunmiidv0ScJVpk6KKgVvYY5W+BMSdlL8Ov6Rq+FSqKFQ0Vsz2I7HVsGY5kbeAA77r2pOARcTzHaO1Xy/WUkUqGzWJFiLZhbmGYJv3g8p6z0uRvoi1VAZ0PVuguMxLBQptw65UBO4K78zPGNtuGyU0JbPYhja7UgSEY97MXf8wmLmas7CXkPx5Iw6Es+V6rnIGCoHCUzmK2udGI1OnzxsP9pT9pf1TZ2swFKmnEVq58glETFoemntL+qax+pf2dGssoJWXfLKHSc9dEZVJyMWCDYiqLEaEHNvE9ffEVMZgCjsHezOrFVX61WtlugFgRkubEjrb3FhPHAbYof4o+c9Q2LiglN0JHYyVDcA/VsRTc68i1J/8Atzos/j1zz9nnW0UOYshZSTra6EtcekBuJJW44EvylMOGw9diSxVgqO3aIAy3tfdff5zU6WfV1HYC3WFtLWy1NQ+lt3aYjmah5TJxC9XhVQ6M7Akeeb9gJifif3W78Wquyvt08W/SZ1dMzltkD65O7Mf9JH7zqKMz5/y14vwmZ8j0z+I/IztNgY1DUWwF+r1FuIOp+M4PaZyojeq4v5gzQ2FtEU6iknTKQT8f2nJrs1NR24k1mx61icQOruLCw7p5ttWpeszOFygG1yD2rjd32M08R0mRksgOosSdBecXtPF5yd28ncL6z28m5rkjHi8dz3qGtiUBPZBAJsbk35d0zatcXPz4xtapKTvN+PLHlqRqms7T+nW0MuKNMns1Edbd9jOCLzW6PY3qcRTqerc/CdE+HJfn4W69PtNpbtN5ayo9KaNNcyKx+8ob36/vGPTnN7cr39exkvTkLJNR6UrvTnpnTFyolIwrLbJImSek087lXKxCsnKRhWXrPEJES0lKxCsHEdoR+WJNBIsICAARwEBFEypQIoEBHCAoEUCAEcJFKBFtARwkUATq9gDWw01PlrOWWdZ0aPat+JvmZrLOnpWPPW4Ssp1V8P1pXXto6FXUG+hzqTexOoniVPBN9Iq1HsVpsVp29E2FlA7lWwtwOm+euY9s2CNq6Ydqa1qbl2VWag4DEJc+lmUWPC5nk+2doIiqlIqSB2cpDBBf0ieLf/Twv569vbk/2TnO1nbRrZ6hA3ISvdnJu3x0/LKWHHbp+0v6oUOPjEpemvtj5z1k5OM97XRrJlMiEepnLXVGW+mJH+InzE7WpihSqYfP9nVzYeqOBp1VKH9QPlOIqn/iPB0/abnSarenTXkL3nVJ3PP6c1vNGbWFR2ArADqzZs2W71EuM/4V3nz5b+Zx+Jzvp6Kiy9/M+f7CJWxNRr56jvffndmvx1uZXMzjHPyutdX9ij63wVp0tKc5sNe2x5Ifms6NDPHzfs9fF+qTHpnouo32zL7Q1HynP4fF7tZ0itpOR2pQNKqwHot2l8DvHkf2mfHma7mvW7uPmNY4zTfyHlKdbEXmYK5iNUJnrnwyJr/0dWHqSuzRheNvPWZ48NeTpxaTYckmw3t2V9o6D5yvNTYVDPUDfdTteLblHzPlJq8nWc/N46bIAABuAAHgJG6yUxDOJ1qrpK705dYSJxLKlig9OQskvOJC4npNMWKbJImSXGWRMs9JWLFcrGFZMwjCJrrPEdoR9oS9TitaKIRwlQARwiRYCxwiCKIDhHARBHCZaKBFAgI4SAE6foy9nHtN8zOYE7LYGBU01cBwwpviHq3BS2eoqpl4EinfN4zeGdLvTkBsJ/OU8oM9g6XbHd6BC1AcpGfsnRCWTNa+oDZQfbE84q7AdCbvcBc6lULFxlJIC39IFWUjmJ6MMyjxiroy6D0xrx3iXsNs29u0xzKWUKguxBAKLdvTFySu/sm15QS2ZbG46zThpcSUdGDHCRgyScldRauDpvicGMrKKlKpUq5SQ1RqZqnS9wCQirpNLa2xzUy9o074Vq4p2FSwHWEKGDAG4RTf8XdrkbVdkOBdSVYI5VgSCpWu9j3G8u1ttA5+vq4gWtk6rq9xRkcG40FiNN06s/rHNr81l4vo41PrD1itkXrBZNHpdqzLryAJHC517OudiMAEZ1z5jTd6ZsFGqjT7xtext4HjpLFfGobAVcQ1gwAYU9C2bMBbgc76filLE4lyx1ftXY5gAzG51Nh/DeVF7YC6ue4j9M3FEyNhLZSef+//AKmwpnJ5f2dPj/VKJR2phBVp23MNUPI8vAy6JGwnnLZexuzs5XFuhUlWFiDYg7wYk6PaOAFTUdlx97gRyMwK1FqbZXFj8COYM7MbmnNrFyjhFtJKGHZ2yqLn3ADmZvvGDEQsQoFyTYDmZ1WzsOKSBeO9zzb+aSrgNninqTmc6X4AchNCcvl37fE/Do8eOfNT3iEyINFzTx49SsZE0cWkTtLIGvIGkjNImM3EpjSFpM0jabjFRNIzJjI2mozTIRYTTKqI4SMVBDrRN8YSxZF1oi9aI4dSCOEiFVYorLzk4vU4jhIRXXnHDELzk5V7EwjhK4xKc4v0lOcnKvYmJnVdH9sVMxoDqjTNV0c1FPoMz3ViGByA1HbfvO+cecQnOXdn4sI9bdm6yoUDEAElja5Ogm8xjVdr0n2hVBp5MVhMyK6OL2LrUJRswzWKhSX09UThK20amVgz0nVmrMU7RAz9lgtmuAd/mZuY/ZlOoOseqxLICzAWRtL5gTYBQDYb72B0vacrVpICcu7v1NuHL5b5tkqYwobKqAK2dbKSM4sFfUnUW+d7yPDjtIfxjf4yFjrppJKW9PHXu1ko30kwMpLiqfrCSrjafrictzfp0zU+0m20bJgu9KxTS2nXN79bxxpnDHPWpFgyEIbg5SeIU27XfcWvxlalVeriKKuxZFIFME+jSDM1h53PnOg6ZMOpQcTbynTmfxjn1+XMYzaNM2VKYVRa+UBAbjUAchp7jzvMus+dr2sLAAchyjWhKjf2MtkF76gnXlmb/aaIaZWzaypRUsQtmdSe82K/+Us/T6fric3kzbq/DoxqerRVojNKQ2jS9cRDtGl64nn6X6b9p9rbCQ18MlRcrjwI9JTzBkX9zpevGnalL1vhLM6n4hdZ+2W+EZHWnkW7AshZ7Z0uVBvw1U6dxm1h8MtMWXjqxO8mRYqqrLhqy2Klnpg6ZgFZ3tbxdpG21qR3E+6eu5qyfDzx6y35XwIGZ392p/i90a21qf4p5emvp6e+ftdZ4nWTObalPk0YdpJyMv8Aj19M+8+2n1kaXmZ/cl9UxP7kvqmX/Hr6T3z9tFjGGUDtIeqY07RHqmamNJ75XWMjYyocf+GNON/DLMU9otGMJlY4vujfpfdNetZ9otQlT6V3Ql9az7RBlhlkt4Cb6zxFli5ZJDyjpxHlhlkkI6cR5TDIZLcwuY6cRZYuSSa8oXjpxFkMt08oqnrMxXrDnyZQ5XN2st9L77cJDeWsNh0fczht7Dqw/wAQwg40cW+DFMqhxwzZQyt9HylQwJva3C9tN9pjHqeHXcN4pjTjxl3E0ABbMR3Gk4/eZjIBx+BlQw927h4SSlv3cG98j/m6ANt0B+SJliZjC8K09kuFqIxNrf7Tptu7fpuFBwuHewtoCvG9+Os42jWANyPdJsViQwGvlqSN2/8AnCESVsfTJuMLRXtE2uTpYjLu3X18uErV8SrAhaSJe2o1IsSdPG9j4CV2MSBdQnqKgP8AzKRA8qgJ+AlSPasSgTgDfxkV4CwiS1hcE9QFlsFBILMbDNYG3jqIFaKiFiFUXZiAo5k7p0GC6MtUt9YNbXtZQPEmbFbo/h6WH9Ji7XLOACwKkjKG3gbuFj5QMpdpPhRhlp5HOGrVHRyAO0QASV46lrE8LTF2hSC1CV9CoOsTuViez5EMv5ZeOCph6aipmWoRYulVMg3drs68dVvumxU2PRoozsgqVEdqb03zLh7DS6tmDs2/cNIHHwnQvs3CVADTepRewuptVp5uIUkK3vlCrsaoCQn1gAvmUG1u/lAzIQhAIQhAIQhAIQhAIQhAIQhAmhFhI0SLCEAhCEAgIQgBhCEAljDk30JHgbQhAs1He32lT/MZntEhBSZRyEMo5CEIQuQRQoiQhShRFZByhCBHkETIIQgIYkWEIAJawmMq0DmpVGQ8cp0PiNx84QhWgnSnGABjUDEbs9NG/aObpbWZHQ0cKcx7TdWwcm+8kNr4HTuhCUZb4pyTc7jcDhf+ASc7YrFFolh1d1ZVyiyk78vKLCREAx9RfRIH5QfnFqY2q69qq5F7WzED4QhAqQhCUESEIQQhCARIQgLEhCAQhCB//9k=",
+  "dishes": [
+    {
+      "name": "Castle Lager",
+      "description": "Castle Lager is an excellent all around beer. It is your typical light lager but with just a touch of extra bitterness that makes the beer taste crisp and refreshing. It's good for hot summer days at the beach and good for barbecues. It's also a great beer after a hard days work no matter the season",
+      "unitType": "Bottle",
+      "unitVolume": "300ml",
+      "price": 6.90,
+      "image": "https://www.checkers.co.za/medias/10131238EA-checkers515Wx515H.webp?context=bWFzdGVyfGltYWdlc3wyMDc3MHxpbWFnZS93ZWJwfGltYWdlcy9oMzgvaDJhLzk2MzAzMjkxNDMzMjYud2VicHxmOTYxYjViNTk3ZTIxMjlhODg4YWI4ZmFlZGRjYTdlNTk1ZGFhM2E5NmIyNDVkNTFjM2IzYjIzNjYxYzVlYjc0"
+    },
+    {
+      "name": "Castle Milk Stout",
+      "description": "Extra Cold lagered premium beer. Alcohol Content by Volume. Carbohydrates. 1.6g/100ml 40% less total carbohydrates than standard lagers. Taste. medium-bodied refreshing lager with a distinct hopped bitterness and low sweetness that provides a crisp clean taste. Colour. clear golden liquid.",
+      "unitType": "Can",
+      "unitVolume": "300ml",
+      "price": 8.90,
+      "image": "https://www.checkers.co.za/medias/10633095EA-checkers515Wx515H.webp?context=bWFzdGVyfGltYWdlc3wyNjc1NnxpbWFnZS93ZWJwfGltYWdlcy9oNTcvaGFjLzk3MTI5ODA1OTA2MjIud2VicHw2NGYwYWIxNTJmNWI0MTA0NTY4ZjY1NDY0N2UzY2U2NDg5ZmM3ZGVmNjkwMGUyNGM0MGZlMmE5ZGM3MTEwNmEy"
+    },
+    {
+      "name": "Black Label",
+      "description": "Brewed to perfection with the finest hops.",
+      "price": 5.40
+    },
+    {
+      "name": "Lion Lager",
+      "description": "Ripe plantain with cheese and palm honey.",
+      "price": 5.90
+    },
+    {
+      "name": "Hansa Pilsener",
+      "description": "Hansa is brewed in true pilsener style, using the finest Saaz hops",
+      "price": 7.90
+    }
+  ]
+}, {
+  "id": "2",
+  "name": "Liquor City - Randburg",
+  "deliveryFee": 0.40,
+  "minDeliveryTime": 25,
+  "maxDeliveryTime": 35,
+  "rating": 4.7,
+  "image": "https://www.independent.ie/life/food-drink/wine/595c9/34779657.ece/AUTOCROP/w1240/2016-04-16_lif_19558417_I7.JPG",
+  "dishes": [
+    {
+      "name": "Cajun Ribs",
+      "description": "For lovers of a spicy touch. Ribs bathed in our Original sauce accompanied by Cajun spices. Served with French fries and coleslaw.",
+      "price": 18.95
+    },
+    {
+      "name": "The Original Baby Backs",
+      "description": "The house specialty. Pork ribs cooked on the barbecue and marinated with our original barbecue sauce. Served with French fries and coleslaw.",
+      "price": 19.95
+    },
+    {
+      "name": "Carolina Honey",
+      "description": "Our famous ribs marinated with our Carolina honey sauce, a mixture of honey with our original sauce. Ideal for those looking for a sweet touch. Served with French fries and coleslaw.",
+      "price": 18.95,
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg"
+    },
+    {
+      "name": "Onion Rings",
+      "description": "Los tradicionales aros de cebolla de tony roma´s dorados, crujientes y ligeros. Únicos en el mundo, acompañados de salsa BBQ.",
+      "price": 6.95
+    },
+    {
+      "name": "Nachos Tony Roma's",
+      "description": "The best selling nachos! with our blend of melted cheeses, accompanied by guacamole, crispy bacon, ranch beans, and sour cream.",
+      "price": 10.95
+    }
+  ]
+}, {
+  "id": "3",
+  "name": "Checkers Liquor Shop",
+  "deliveryFee": 1.40,
+  "minDeliveryTime": 20,
+  "maxDeliveryTime": 30,
+  "rating": 4.3,
+  "image": "https://thegrapegeeks.files.wordpress.com/2020/06/original-1.jpg",
+  "dishes": [
+    {
+      "name": "Burger Mustang",
+      "description": "Homemade bread, burger sauce, lettuce, sweet and sour pickle, bacon, cheddar and BBQ sauce. Beef 180 grams.",
+      "price": 5.90     
+    },
+    {
+      "name": "Alabama bread",
+      "description": "Artisan bread, butter sauce, garlic, BBQ chicken and cheddar.",
+      "price": 3.00   
+    },
+    {
+      "name": "New York Burger",
+      "description": "Homemade bread, lettuce, burger sauce, 180 grams of beef, goat cheese and roasted apple.",
+      "price": 5.90     
+    },
+    {
+      "name": "Mac & Cheese Burger",
+      "description": "Homemade bread, lettuce, burger sauce, 180 grams of beef, mac and cheese, and American-style bacon.",
+      "price": 5.90     
+    },
+    {
+      "name": "Nachos Brothers",
+      "description": "Nachos, guacamole, cheddar sauce, beans, bacon, and cream cheese.",
+      "price": 5.20     
+    }
+  ]
+}, {
+  "id": "4",
+  "name": "Captain Liquor Distributors",
+  "deliveryFee": 0.90,
+  "minDeliveryTime": 30,
+  "maxDeliveryTime": 40,
+  "rating": 4.5,
+  "image": "https://ichef.bbci.co.uk/news/976/mcs/media/images/77494000/jpg/_77494652_canned-craft-beers.jpg",
+  "dishes": [
+    {
+      "name": "English burger",
+      "description": "Beef with bacon, portobello mushrooms, tomato, cheddar cheese, grilled egg and our smoked sauce.",
+      "price": 14.90     
+    },
+    {
+      "name": "Mexican Burger",
+      "description": "Beef, with pico de gallo, veggie chili, cheddar cheese, guacamole and smoked sauce.",
+      "price": 14.90     
+    },
+    {
+      "name": "Tequeños",
+      "description": "Crispy sticks filled with melted cheese accompanied by tomato chutney.",
+      "price": 9.90    
+    },
+    {
+      "name": "Starters Combo",
+      "description": "Tequeños, crispy onion and chicken delicacies.",
+      "price": 13.90    
+    },
+    {
+      "name": "Cesar Salad",
+      "description": "Green sprouts, pieces of grilled bacon, chicken delicacies, grated Parmesan, muffin croutons and fried onion confetti dressed with Caesar sauce.",
+      "price": 10.50     
+    }
+  ]
+}]

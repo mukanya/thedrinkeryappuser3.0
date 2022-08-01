@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-drinkeryappuser-staging-231502-authRole",
+      "UnauthRoleArn": "arn:aws:iam::737117303561:role/amplify-drinkeryappuser-staging-231502-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::737117303561:role/amplify-drinkeryappuser-staging-231502-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-drinkeryappuser-staging-231502-deployment",
+      "UnauthRoleName": "amplify-drinkeryappuser-staging-231502-unauthRole",
+      "StackName": "amplify-drinkeryappuser-staging-231502",
+      "StackId": "arn:aws:cloudformation:eu-west-1:737117303561:stack/amplify-drinkeryappuser-staging-231502/5cfde960-c8db-11ec-94fc-02eba1e9eb03",
+      "AmplifyAppId": "dtwfk8x9p8vqt"
+    },
+    "categories": {
+      "auth": {
+        "DrinkeryAppUser": {}
+      }
+    }
+  }
+}
