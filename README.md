@@ -1,6 +1,7 @@
-# thedeliveryappuser2
+# thedeliveryappuser1.0
 This is the user interface of the Food Delivery App - A Taste of Home
 
-# thedrinkeryappuser3
+# thedeliveryappdriver1.0
 
-# drinkeryappuser2.0
+
+# thedeliveryappstore1.0
